@@ -1,0 +1,30 @@
+{
+  "name": "random.cat.js",
+  "version": "1.0.0",
+  "description": "A module to interct with the random.cat API",
+  "main": "index.js",
+  "dependencies": {
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {
+    "superagent": "~3.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EXtremeExploit/random.cat.js.git"
+  },
+  "keywords": [
+    "random",
+    "cat",
+    "api"
+  ],
+  "author": "EXtremeExploit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EXtremeExploit/cat.js/issues"
+  },
+  "homepage": "https://github.com/EXtremeExploit/cat.js#readme"
+}
