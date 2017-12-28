@@ -18,8 +18,8 @@ random.cat.js is a  [node.js](https://nodejs.org) module that allows you to inte
 
 ## Example usage
 ```js
-const randoCat = require('random.cat.js');
-const randomCatApi = random.cat.api();
+const randomCat = require('random.cat.js');
+const randomCatApi = randomCat.api();
 
-random.catApi.getCat().then((cat) => console.log(cat.file))
+randomCatApi.getCat().then((cat) => console.log(cat.file))
 ```
