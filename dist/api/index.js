@@ -19,4 +19,9 @@ class Api {
         return this.apiCall('/meow');
     }
 }
-module.exports = Api;
+exports.Api = Api;
+function api() {
+    return new Api;
+}
+exports.api = api;
+
