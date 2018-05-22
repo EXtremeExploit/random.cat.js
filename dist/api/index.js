@@ -2,7 +2,7 @@ const request = require('superagent');
 
 class Api {
     constructor() {
-        this.baseUrl = 'http://random.cat';
+        this.baseUrl = 'http://aws.random.cat';
     }
     apiCall(endpoint) {
         return new Promise((resolve, reject) => {
