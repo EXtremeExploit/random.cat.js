@@ -1,6 +1,6 @@
 {
   "name": "random.cat.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A module to interct with the random.cat API",
   "main": "index.js",
   "dependencies": {
